@@ -5,7 +5,7 @@
     </td>
     <td valign="middle">
       <h1 style="margin: 0 0 0 12px;">
-        Student CMS (Student Management System)
+        Student CMS (Student Course Management System)
       </h1>
     </td>
   </tr>
